@@ -1,9 +1,9 @@
-FROM node:14
+FROM node:20
 WORKDIR /app
 COPY package*.json ./
 #Install dependencies
-RUN npm install
 RUN npm i react-moment
+RUN npm install
 #Copy all files into docker env
 COPY . .
 RUN npm run build
