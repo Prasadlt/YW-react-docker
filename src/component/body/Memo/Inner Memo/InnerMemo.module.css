@@ -1,0 +1,13 @@
+.tabTitle {
+  border: 2px solid black !important;
+  font-size: small !important;
+  font-weight: bold !important;
+}
+
+.tabTitleSelected {
+  background-color: #131c42 !important;
+  color: white !important;
+  border-bottom: 4px solid white !important;
+  font-size: small !important;
+  font-weight: bold !important;
+}

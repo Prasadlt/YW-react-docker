@@ -1,0 +1,41 @@
+label {
+  font-weight: bold;
+  text-align: left;
+}
+
+.outer-div {
+  display: grid;
+  grid-template-columns: 45% 45%;
+  float: left;
+  margin: 0px 30px 30px 30px;
+  width: 97%;
+  grid-gap: 10px;
+}
+
+.inner-div {
+  display: grid;
+  grid-template-rows: 50% 50%;
+  margin-bottom: 10px;
+}
+
+.inner-div-full {
+  display: grid;
+  margin-bottom: 10px;
+  grid-column: 1 / span 2;
+}
+
+.inner-div-content {
+  display: grid;
+  grid-template-rows: 25% 75%;
+  margin-bottom: 10px;
+}
+
+input, textarea {
+    border : 2px solid
+}
+
+.save-div {
+  float: right;
+  margin-right: 40px;
+}
+

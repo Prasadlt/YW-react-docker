@@ -1,0 +1,16 @@
+.outer-layout {
+  display: grid;
+  grid-template-columns: 20% 80%;
+  height: 100vh;
+}
+
+.sidebar-layout {
+  background-color: #131c42;
+  display: grid;
+  grid-template-rows: 30% 70%;
+}
+
+.body-header-layout {
+  display: grid;
+  grid-template-rows: 10% 90%;
+}

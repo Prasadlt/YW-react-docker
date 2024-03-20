@@ -1,0 +1,19 @@
+.main-box-container {
+  /* height: inherit; */
+  width: inherit;
+  margin: 10px 10px 30px 10px;
+  padding: 10px;
+  overflow: auto;
+  text-align: left;
+  border: 1px solid #dee2e6;
+  border-radius: 10px;
+}
+
+.child-box-container {
+  /* height: inherit; */
+  width: inherit;
+  margin: 0px !important;
+  padding: 5px;
+  border: 1px solid #dee2e6;
+  border-radius: 10px;
+}

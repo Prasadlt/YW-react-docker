@@ -1,0 +1,40 @@
+.content {
+  height: max-content;
+  border: 2px solid black;
+  padding: 10px;
+  margin: 0px 10px 10px 10px;
+  border-radius: 0px 6px 6px 6px;
+  overflow: auto;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.title {
+  text-align: left;
+  margin: 4px 13px 8px 10px;
+}
+
+.cancelBtn {
+  margin-right: 10px;
+  color: black !important;
+  font-weight: bold !important;
+  font-size: small !important;
+  border: 0.16em solid black !important;
+}
+
+.buttons {
+  width: 20%;
+  margin-top: 18px;
+}
+
+.tab-div {
+  margin-left: 0.6em;
+}
+
+.memoContent {
+  overflow-y: auto;
+  max-height: calc(100vh - 40px) !important;
+  scrollbar-width: none;
+}

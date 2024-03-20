@@ -1,0 +1,188 @@
+body {
+    overflow-y: hidden !important;
+  }
+  .login-body {
+    width: 1440px;
+    height: 1024px;
+    top: 1688px;
+    background-image: url("../../images/login_page_background.png");
+    background-size: auto;
+  }
+  
+  .css-zxdg2z {
+    display: none;
+  }
+  
+  .overflow-cls {
+    width: 1000px !important;
+    margin-left: -10px !important;
+    margin-top: 150px !important;
+  }
+  
+  .css-ckyhk3 {
+    margin-top: -30px;
+  }
+  
+  .nav-tabs {
+    margin-top: -25px;
+  }
+  
+  .css-wvz34p {
+    width: 1005px !important;
+    margin-left: -10px !important;
+  
+     height: 460px;
+    overflow-y: auto;
+  }
+  
+  .img-home {
+    margin-top: 13px;
+    margin-left: 17px;
+  }
+  
+  .heading {
+    font-size: x-large;
+    font-weight: 600;
+    color: #0d6efd !important;
+  }
+  
+  #uncontrolled-tab-example {
+    overflow: scroll !important;
+  }
+  
+  .box-container {
+    margin-top: 80px;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 20px;
+  }
+  
+  .grid-sp {
+    margin-bottom: 10px !important;
+  }
+  
+  .grid-border {
+    margin-bottom: 10px !important;
+    border-bottom: 1px solid black;
+  }
+  
+  .bg-appbar {
+    background: #124a87 !important;
+    color: #2fb5de !important;
+    position: fixed !important;
+  }
+  
+  .MuiDrawer-paper {
+    width: 184px;
+  }
+  
+  .mb-20 {
+    margin-bottom: 20px;
+  }
+  .bg-sidebar {
+    background: #124a87 !important;
+    color: #2fb5de !important;
+    font-weight: 500 !important;
+    height: 480px !important;
+    margin-top: 0px;
+    width: 184px;
+    text-decoration: none;
+  }
+  
+  .label-cls {
+    color: #302f2f;
+    font-weight: 600 !important;
+  }
+  
+  .approve-cls {
+    border: 1px solid black;
+    margin-right: 10px !important;
+  }
+  
+  .certificate-design {
+    border: 1px solid #302f2f;
+    padding-left: 10px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-right: 0px;
+    overflow-y: scroll;
+    height: 450px;
+    margin-top: 0px;
+    width: 135% !important;
+  }
+  
+  .tab-cls {
+    height: 350px;
+    overflow-y: auto;
+    margin-bottom: 30px;
+    overflow-x: hidden;
+  }
+  
+  .logout-text {
+    text-decoration: none;
+    color: white;
+  }
+  
+  .login-container {
+    width: Fixed (720px);
+    height: Hug (527px);
+    top: 25%;
+    left: 25%;
+    padding: 60px;
+    border-radius: 4px;
+    border: 1px;
+    gap: 12px;
+  }
+  .mt-65 {
+    margin-top: -30px !important;
+  }
+  .mt-10 {
+    margin-left: -60px !important;
+  }
+  .img_login {
+    width: 372px;
+    height: 143px;
+  }
+  .nav-item {
+    border: 1px solid #ddd !important;
+    margin-right: 15px;
+    border-radius: 5px 5px 0 0;
+    background: #f4efef;
+    color: black !important;
+  }
+  .nav-link {
+    color: black !important;
+  }
+  .MuiBox-root .css-1lvtzne {
+    display: none;
+  }
+  .test-tab-label {
+    display: flex;
+    padding-left: 5px;
+  }
+  .heading-fl {
+    float: inline-start !important;
+  }
+  .tab-content {
+    border: 1px solid #ddd;
+    border-top: 0px !important;
+    margin-top: -18px;
+  }
+  .nav-link .active {
+    border-bottom: 0px !important;
+  }
+  
+  .MuiButton-containedPrimary {
+    color: #fff;
+    background-color: #0d6efd;
+  }
+  
+  .MuiButton-containedPrimary {
+    color: #fff;
+    background-color: #0d6efd;
+  }
+  
+  .css-qvtrhg-MuiDataGrid-virtualScroller {
+    overflow-x: hidden !important;
+  }
+  

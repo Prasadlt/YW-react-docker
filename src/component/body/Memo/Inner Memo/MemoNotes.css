@@ -1,0 +1,16 @@
+input {
+  border: 2px solid;
+}
+
+.attachmentBtn {
+  color: white;
+  background-color: blue;
+  margin: 8px 0px 0px 28px;
+  height: 30px;
+}
+
+.attachment-div {
+  border: 2px dotted gray;
+  height: 50px;
+  display: flex;
+}
